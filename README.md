@@ -10,5 +10,3 @@ Service Offerings: Detailed information about the range of interior design servi
 Client Testimonials: Positive feedback from satisfied clients to build credibility and trust.
 
 Contact Form: Easy-to-use contact form for inquiries and consultation requests.
-
-The UI/UX design prioritizes user engagement and visual appeal, making it simple for visitors to explore the designer’s work and connect with them.
